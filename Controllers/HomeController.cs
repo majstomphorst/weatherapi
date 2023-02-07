@@ -9,6 +9,6 @@ public class HomeController
     [HttpGet]
     public string Get()
     {
-        return "Hello max";
+        return "Maxim";
     }
 }
